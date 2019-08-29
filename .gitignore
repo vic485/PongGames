@@ -1,0 +1,6 @@
+# Common editor caches
+.vscode/
+
+# .net core stuff
+bin/
+obj/
