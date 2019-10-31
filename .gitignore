@@ -1,6 +1,11 @@
 # Common editor caches
+.idea/
 .vscode/
 
 # .net core stuff
 bin/
 obj/
+
+# Rust files
+target/
+**/*.rs.bk
